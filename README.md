@@ -23,7 +23,7 @@ The English/Pitt folders consist of two groups: control and dementia. Within eac
 
 The Challenge focuses on addressing a challenging automatic prediction problem that holds societal and medical significance, specifically the detection of Alzheimer's Dementia (AD). The objective of this task is to diagnose individuals based on their spontaneous speech. To facilitate this, two distinct groups of audio sets are provided: control and dementia.
 
-## Result
+## Results
 
 The result shows that the Wav2vec model achieved 70% auroc scores and the Yamnet model achieved 50% accuracy on a test set.
 
