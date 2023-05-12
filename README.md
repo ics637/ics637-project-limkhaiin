@@ -24,5 +24,5 @@ The Challenge focuses on addressing a challenging automatic prediction problem t
 ## Result
 The result shows that the Wav2vec model achieved 80% training auroc and 70% validation auroc scores. Note that the Wav2vec model was firstly trained with a learning rate 1e-7 for 2-3 epochs and later trained with le-5. Yamnet model achieved 80% training accuracy and 68% validation accuracy. For the test scores, Wav2vec achieved 68% auroc scores and the Yamnet model only achieved 50% accuracy. 
 
-# Cross-validation
-I perform cross-validation on the Wav2vec model to tune the learning rate in the first model.  
+## Cross-validation
+I perform cross-validation on the Wav2vec model to tune the learning rate.  
