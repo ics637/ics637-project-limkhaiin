@@ -1,7 +1,7 @@
 README.md
 
 # Fine-tuning pre-trained audio models for detecting dementia 
-This repository contains the comprehensive details of the ICS 637 final project. It includes the necessary datasets from Dementia Databank (https://dementia.talkbank.org) for training, validation, and testing purposes, as well as a Python script for implementation. Additionally, an attached report provides a thorough account of the project, covering aspects ranging from the training and validation process to the final evaluation. This project is new because most of previous studies using the Dementia Databank either included the trasncription of the audio data or utilized only one folder in the Databank. Our project only included the audio waves as the training/test data. It also used one folder for training and another as test data.
+This repository contains the comprehensive details of the ICS 637 final project. It includes the necessary datasets from Dementia Databank (https://dementia.talkbank.org) for training, validation, and testing purposes, as well as a Python script for implementation. Additionally, an attached report provides a thorough account of the project, covering aspects ranging from the training and validation process to the final evaluation. This project is new because most of previous studies using the Dementia Databank either included the trasncription of the audio data or utilized only one folder in the Databank. Our project only included the audio waves as the training/test data. It also used the Pitt folder for training and the ADRess 2021 Challenge for evaluation.
 
 ## Dataset
 The training and validation data utilized in this project were sourced from the English/Pitt dataset within the Dementia Databank (https://dementia.talkbank.org).  
